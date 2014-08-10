@@ -1,6 +1,6 @@
 MVVM in Swift
 =============
-My exercise in converting Objective-C to Swift in ReactiveCocoa. It is based on [MVVM
+My exercise in converting Objective-C to Swift in ReactiveCocoa 2.1.8 with Xcode 6 Beta 5. It is based on [MVVM
     Tutorial with ReactiveCocoa: Part 1/2](http://www.raywenderlich.com/74106/mvvm-tutorial-with-reactivecocoa-part-1">).
 
 ## Blog Posts
