@@ -33,4 +33,4 @@ My exercise in converting Objective-C to Swift in ReactiveCocoa 2.1.8 with Xcode
 
 4. Create the necessary functions or macros for, or hardcode, your Flickr API key and secret.
 
-5. Open the shared workspace in Xcode.
+5. Open the shared workspace (.xcworkspace) in Xcode.
