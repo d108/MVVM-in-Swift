@@ -14,21 +14,23 @@ My exercise in converting Objective-C to Swift in ReactiveCocoa 2.1.8 with Xcode
 
 1. Clone the repository.
 
-    $ git clone git@github.com:dz1111/MVVM-in-Swift.git
+	    $ git clone git@github.com:dz1111/MVVM-in-Swift.git
 
 2. Install CocoaPods.
 
-$ cd MVVM-in-Swift
-$ pod install
+		$ cd MVVM-in-Swift
+		$ pod install
 
 3. Change the property names in SDWebImage that have build errors to 
 
-self.executing
-self.finished
+		self.executing
+		self.finished
 
-instead of
+	instead of
 
-_executing
-_finished
+		_executing
+		_finished
 
-3. Create the necessary functions or macros for, or hardcode, your Flickr API key and secret.
+4. Create the necessary functions or macros for, or hardcode, your Flickr API key and secret.
+
+5. Open the shared workspace in Xcode.
