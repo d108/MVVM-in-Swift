@@ -3,5 +3,3 @@
 //
 
 #import <ReactiveCocoa/ReactiveCocoa.h>
-//#import "RWTFlickrSearchViewModel.h"
-//#import "RWTFlickrSearchViewController.h"
